@@ -1,3 +1,3 @@
-# dapp-accounts
+# tetsy-dapp-accounts
 
 Default accounts list view
